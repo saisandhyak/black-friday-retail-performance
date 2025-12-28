@@ -1,13 +1,5 @@
 ## Overview
 
-YES — good instinct 😅
-It *is* a bit too casual for GitHub if you’re targeting recruiters / interviewers.
-
-Let’s **dial it down**, keep it **natural and confident**, but remove the slangy / diary-like bits.
-Think: *clear, reflective, professional — but still human.*
-
-Below is a **cleaned-up version in your voice**, just more polished.
-
 ## 🛍️ Black Friday Retail Performance Analysis (2024–2025)
 
 ## Project Background
