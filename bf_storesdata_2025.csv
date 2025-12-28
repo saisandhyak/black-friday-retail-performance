@@ -1,0 +1,31 @@
+store_id,region,state,city,store_type
+S001,Midwest,CA,Charlotte,Urban
+S002,Northeast,PA,New York,Suburban
+S003,West,NC,Detroit,Suburban
+S004,Northeast,MA,New York,Suburban
+S005,West,VA,Boston,Suburban
+S006,West,NC,Tampa,Urban
+S007,Midwest,MA,Boston,Suburban
+S008,Northeast,TX,San Jose,Suburban
+S009,Northeast,NC,Miami,Suburban
+S010,Northeast,NY,Philadelphia,Urban
+S011,Northeast,WA,Atlanta,Suburban
+S012,West,FL,New York,Suburban
+S013,Northeast,NY,Chicago,Suburban
+S014,West,GA,Philadelphia,Urban
+S015,West,PA,Dallas,Suburban
+S016,West,TX,San Jose,Suburban
+S017,West,TX,Miami,Outlet
+S018,Northeast,TX,Austin,Suburban
+S019,South,WA,Chicago,Outlet
+S020,South,PA,Philadelphia,Suburban
+S021,South,GA,Charlotte,Urban
+S022,Midwest,MI,Boston,Urban
+S023,Northeast,IL,Seattle,Suburban
+S024,Midwest,GA,Seattle,Suburban
+S025,Northeast,GA,Tampa,Suburban
+S026,Northeast,CA,Austin,Urban
+S027,Midwest,GA,Miami,Urban
+S028,Midwest,NJ,Seattle,Suburban
+S029,South,WA,Atlanta,Suburban
+S030,South,CA,Austin,Suburban

@@ -1,0 +1,19 @@
+promotion_id,promo_type,discount_pct,channel,promo_group,start_date,end_date
+PR001,Flash Deal,37,In-Store,BlackFriday_Main,2025-11-25,2025-11-28
+PR002,Bundle,22,Online,Loyalty_Drop,2025-11-26,2025-11-29
+PR003,Bundle,33,In-Store,BlackFriday_Main,2025-11-27,2025-11-29
+PR004,Clearance,61,In-Store,BlackFriday_Early,2025-11-23,2025-11-26
+PR005,Bundle,22,In-Store,BlackFriday_Early,2025-11-22,2025-11-25
+PR006,BOGO,50,Online,Loyalty_Drop,2025-11-27,2025-11-30
+PR007,BOGO,50,Online,BlackFriday_Early,2025-11-25,2025-11-27
+PR008,Flash Deal,32,Online,Clearance_Push,2025-11-22,2025-11-29
+PR009,Loyalty Exclusive,34,Online,CyberWeek,2025-11-26,2025-11-30
+PR010,Flash Deal,26,Online,Clearance_Push,2025-11-23,2025-11-28
+PR011,Clearance,44,Online,CyberWeek,2025-11-25,2025-11-30
+PR012,BOGO,50,In-Store,CyberWeek,2025-11-26,2025-11-28
+PR013,Percent Off,15,In-Store,Clearance_Push,2025-11-26,2025-11-29
+PR014,Flash Deal,33,In-Store,Clearance_Push,2025-11-22,2025-11-29
+PR015,Percent Off,26,In-Store,CyberWeek,2025-11-22,2025-11-29
+PR016,BOGO,50,Online,Loyalty_Drop,2025-11-27,2025-11-30
+PR017,Loyalty Exclusive,35,In-Store,BlackFriday_Early,2025-11-26,2025-11-30
+PR018,Bundle,21,Online,CyberWeek,2025-11-27,2025-11-28
